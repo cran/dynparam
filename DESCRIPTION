@@ -1,7 +1,7 @@
 Package: dynparam
 Type: Package
 Title: Creating Meta-Information for Parameters
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(
     person(
       "Robrecht", 
@@ -26,17 +26,17 @@ Description: Provides tools for describing parameters of algorithms in an abstra
   in order to be able to use 'dynparam' in conjunction with 'mlrMBO'.
 License: MIT + file LICENSE
 LazyData: TRUE
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 Encoding: UTF-8
 Depends: R (>= 3.0.0)
 Imports: assertthat, carrier, dplyr, dynutils (>= 1.0.2), magrittr,
         purrr, stringr, tibble, tidyr
 Suggests: lhs, ParamHelpers, testthat
 NeedsCompilation: no
-Packaged: 2020-06-24 08:16:21 UTC; rcannood
+Packaged: 2021-01-04 15:54:11 UTC; rcannood
 Author: Robrecht Cannoodt [aut, cre] (<https://orcid.org/0000-0003-3641-729X>,
     rcannood),
   Wouter Saelens [aut] (<https://orcid.org/0000-0002-7114-6248>, zouter)
 Maintainer: Robrecht Cannoodt <rcannood@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-06-24 10:00:06 UTC
+Date/Publication: 2021-01-04 23:30:02 UTC
